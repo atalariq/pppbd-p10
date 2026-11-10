@@ -30,6 +30,9 @@ class MainActivity : AppCompatActivity() {
             view.setPadding(bars.left, bars.top, bars.right, bars.bottom)
             insets
         }
+        binding.lvNama.setOnItemClickListener { _, _, position, _ ->
+            startActivity(DetailActivity.createIntent(this, employees[position]))
+        }
         loadEmployees()
     }
 
