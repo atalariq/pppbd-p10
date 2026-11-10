@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Konekin</string>
+    <string name="employee_list">Daftar Employee</string>
+    <string name="connection_error">Koneksi error</string>
 </resources>
