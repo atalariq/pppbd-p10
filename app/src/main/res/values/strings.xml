@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Konekin</string>
-    <string name="employee_list">Daftar Employee</string>
+    <string name="employee_list">Daftar Karyawan</string>
     <string name="connection_error">Koneksi error</string>
-    <string name="employee_detail">Detail Employee</string>
+    <string name="employee_detail">Detail Karyawan</string>
     <string name="label_id">ID</string>
     <string name="label_name">Nama</string>
     <string name="label_age">Umur</string>
